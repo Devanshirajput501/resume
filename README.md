@@ -1,7 +1,7 @@
 # resume  
 online resume  
   
-Resume link:https://mr901.github.io/resume/  
+Resume link:https://Devanshirajput501.github.io/resume/  
 YAML Checking: https://www.yamllint.com/  
   
   
