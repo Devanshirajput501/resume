@@ -166,7 +166,7 @@ experiences:
             - Developed Dashboard, Visualization and Analysis, spreadsheet to understand the whole behaviour of the traffic. Partially interactive visualization sheets were also developed in python.
             - **Tags**: *SQL and Spreadsheet/Python Implementation, Visualization, Result Sharing* 
         &nbsp;‎ &nbsp;  
-- company: BSES SCADA(IT DEPARTMENT)
+    - company: BSES SCADA(IT DEPARTMENT)
       tag: Full-time
       location: Bangalore
       role1: Data Scientist – R&D
@@ -189,7 +189,7 @@ experiences:
             - Helped developed a module named, which makes utilizes online learning to develop a probability score distribution over of isotonic regression for action taking.
             - **Tags**: *Isotonic Regression, Online Learning, Self-Adjusting, Smart handling of Business Limits* 
         + **Second Level Module Integration**
-company: BSES(O&M DEPARTMENT)
+    - company: BSES(O&M DEPARTMENT)
       tag: Full-time
       location: Bangalore
       role1: Data Scientist – R&D
@@ -212,7 +212,6 @@ company: BSES(O&M DEPARTMENT)
             - Helped developed a module named, which makes utilizes online learning to develop a probability score distribution over of isotonic regression for action taking.
             - **Tags**: *Isotonic Regression, Online Learning, Self-Adjusting, Smart handling of Business Limits* 
         + **Second Level Module Integration**
-
 projects:
   display: true
   title: Projects
