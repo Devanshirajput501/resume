@@ -158,9 +158,9 @@ certificates: >
   display: true
   title: Certificates
   items:
-  + English and Personality Development 
-  + Intel AI for All 
-  + Dream Builder
+   +  English and Personality Development 
+   +  Intel AI for All 
+   +  Dream Builder
 languages:
   display: true
   title: Languages
