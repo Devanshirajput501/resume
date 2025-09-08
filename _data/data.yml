@@ -62,7 +62,7 @@ experiences:
     - company: Avaada Electro Pvt Ltd
       tag: Full-time
       location: Nagpur,Maharashtra,India
-      role1: Intern(2 Months)
+      role1: Intern (2 Months)
       time1: Apr'25 - Jul'25
       details: >
         Experience in this company:
@@ -79,7 +79,7 @@ experiences:
     - company: CSIR NPL
       tag: Full-time
       location: New Delhi
-      role1: Intern(2 Months)
+      role1: Intern (2 Months)
       time1: Feb'2-March'24
       details: >
         Experience in this company:
@@ -92,7 +92,7 @@ experiences:
     - company: BSES SCADA(IT DEPARTMENT)
       tag: Full-time
       location: New Delhi
-      role1: Intern(2 Months)
+      role1: Intern (2 Months)
       time1: May'24-Jul'24
       details: >
         Experience in this company:
@@ -103,7 +103,7 @@ experiences:
     - company: BSES(O&M DEPARTMENT)
       tag: Full-time
       location: New Delhi
-      role1: Intern(2 Months)
+      role1: Intern (2 Months)
       time1: May'23-Jul'23
       details: >
         Experience in this company:
@@ -123,7 +123,8 @@ projects:
         its vertically upright position, despite its inherent instability
     - name: Cafeteria Website
       link: null
-      details: I created a website using Html,CSS,Javascript,Jquery,SQL
+      details: The objective is to created a website using
+        Html,CSS,Javascript,Jquery,SQL
 skills:
   display: true
   title: Tools & Skills
