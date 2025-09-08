@@ -4,7 +4,7 @@ basic:
   title: Electrical and Electronic Engineer | Banasthali Vidyapith | B.Tech
   avatar:
     display: true
-    path: profile_pic.png
+    path: IMG_20250816_232258 (1).jpg
 contact:
   email: devanshirajput501@gmail.com
   phone: +91-8376025287
@@ -42,102 +42,49 @@ experiences:
   display: true
   title: Experiences
   items:
-    - company: CandorHealth
+    - company: Avaada Electro Pvt Ltd
       tag: Full-time
-      location: Bangalore
-      role1: Senior Machine Learning Software Engineer
-      time1: Mar'23 - Present
+      location: Nagpur,Maharashtra,India
+      role1: Graduate Engineer Trainee
+      time1: Aug'25 - Present
       details: >
         Experience in this company:
 
-        + **National Provider Identifier (NPI) Filler services for the missing NPI**
-          - Filled in the missing information for multiple cases of Healthcare provider by utilizing the data available from data source.
-          - **Tags**: *Identity Resolution, Similarity Mapping, Search, Parallel Processing, Big Data, APIs, Redis, Spark*
+        + Core Responsibilities
+         - Managed Pre-EL testing, edge sealing, glass loader, and EVA cutter machinery in solar module production.
+         - Guarantees defect identification, quality control, and seamless production flow across manufacturing stages.
+         - Optimises manpower allocation, line operations, and daily production targets.
+         - Executed data entry, reporting, and analysis utilising MS Excel for process monitoring.
+         - Conducted problem analysis and troubleshooting to minimise downtime and enhance efficiency.
         &nbsp;‎ &nbsp;    
 
         &nbsp;‎ &nbsp;  
     - company: Avaada Electro Pvt Ltd
       tag: Full-time
-      location: Bangalore
-      role1: Data Scientist II
-      time1: Apr'22 - Jan'23
-      role2: Engineer
-      time2: Feb'23 - Mar'23
+      location: Nagpur,Maharashtra,India
+      role1: Intern
+      time1: Apr'25 - Jul'25
       details: >
         Experience in this company:
 
-        + **Day Ahead Capacity Planning**
-          - Providing Day Ahead forecast for the Lastmile, to the Delivery Stations. This enables them to plan for the logistics.
-          - Cost Saving comes from minimizing the Over and the underbooking of the logistics.  
-          - **Tags**: *Time Series, Curve Matching, ML, Sagemaker, EC2, Lambda, Event Bridge, S3, Dashboard*
-        + **Common Utilities Python Lib (v1)**
-          - A simple library that contains the common utilities to be used as part of multiple projects.geography
-          - Credential Keeping and Retrieving: This is based on AWS Secret Manager 
-          - SQL Query Executor: Run SQL jobs while capturing and providing the job stats and logging them too.
-          - Logger: A file and table based logger wrapper
-          - S3 Interaction: A wrapper containing functions for S3 based utility.
-          - Operations: A set of certain class & functions for Path, Time, & Math related Operations
-          - Data Evaluation & Clustering: Functions to evaluate & show performance of Regression & class based data in much greator details.
-          - Data Analysis: Function to identify Missing data wrt to groups, plotting the data etc were present.
-          - Document Interaction: ability to connect & retrieve data from Quip
-          - **Tags**: *AWS Services, DB, SQL, Evaluation, Logging, Analyis, data pipeline*
-        + **Capacity Planning Performance Evaluation, Analysis & Dashboard**
-          - Developed and maintain capacity planning evaluation and analysis. It is robust enough to get multiple insights and even generate plans for current state, pilots, and areas for improvement.
-          - Helps better evaluate multiple component of delivery at multiple country, station, ship methods and cycles
-          - **Tags**: *Time Series, EC2, QuickSight, S3, Excel*
-        + **Multiple Reports Creation and Data Pipelines Testing**
-          - Created Reports for Middle Mile Performance Evaluation and tested/adjusted few data pipelines for reporting.
-        &nbsp;‎ &nbsp;    
-
-        &nbsp;‎ &nbsp;  
-    - company: Avaada Electro Pvt Ltd
-      tag: Full-time
-      location: Bangalore
-      role1: Machine Learning Software Engineer
-      time1: Jun'19 - Apr'22
-      details: >
-        Experience in this company:
-
-        + **ML labs v2 setup**
-          - Defining ways to Work with ML projects and other applications having ML related features
-          - Brining sustainable practices for accelerated development while maintaining the agility  
-          - Planning phase of data governance, 3rd Party Data Annotators, Portal development for data tagging, selection and versioning, data collection experiment designs and pipelines.
-        + **Estimating Growth Indicator of Chicken (POC)**
-          - Estimating the weight and age of the chicken based on video recording done using the mobile camera.
-          - **Tags**: *Agile Experiment Setup & Design , Object Detection, Image Standardizer, Estimator, Ensembling*
-        + **Defective Nugget Detection and Accounting (POC then MVP)**
-          - Defective Nugget Detection and Tracking on conveyor belt with output projected on display for manual removal.
-          - **Tags**: *Jetson Nano, Raspberry Pi, Ardino Uno, Edge device, Object Detection, Tracking, on-premise, real-time*
-        + **HR Chatbot (Myco) (MVP)**
-          - Initial product version was launched for Singapore and Australia with capability for form filling, ticket creation, ticket checking, easy data integration from excel sheet
-          - **Tags**: *Rasa, Redis, NLU, NDM, NLG, NLP, Chatbot, excel*
-        + **Financial Commentary Generation (POC)**
-          - A utility for table-to-text based on template method was developed for the initial stage, b/c of the lack and too much fragmentation of data source this approach was deemed fit.
-        + **YOLOv5-v4** training and deployment integration on AWS suitable to multiple tailored needs.
-          - **Tags**: *Computer Vision, Sagemaker, ECR, S3, Lambda Function, API Gateway, IAM, CloudWatch*
-        + **Computer Vision Utility**
-          - Streamlit based web application for parsing, labelling, visualizing annotation, with support for Yolo prediction.
-          - Ability to connect work with local, S3 and pcloud storage.
-        + MiApp feature involving weather data visualization using the GIS data.
-
-        + **Information Extraction from Ship Invoices (POC)**  
-          - Extracting multiple information through the information that was shared in old and current emails.
-          - **Tags**: *Text-to-Table, Analytics; Regex, Python Email to DB*
-        &nbsp;‎ &nbsp;    
-
+        + Core Responsibilities 
+         - Conducted thorough analysis of manufacturing process for 5 GW solar panel production plant, gaining practical exposure to key stages including raw material handling, Incoming Quality Control (IQC), and module assembly operations.
+         - Analysed key operations in solar module manufacturing, including glass loading and EVA layering.
+         - Studied automated and manual processes across all production stages, from stringing to quality checks.
+         - Monitored lamination, junction box assembly, framing, and sun simulation procedures for efficiency.
+         - Conducted Hi-Pot testing, EL inspection, and visual quality checks to ensure product standards.
+         - Serve as core member of production team, specialising in operation and monitoring of Pre-Electroluminescence (Pre-EL) testing process within solar module manufacturing line.
+           and cell-level defects before lamination, playing a vital role in ensuring product quality and reliability.
         &nbsp;‎ &nbsp;  
     - company: CSIR NPL
       tag: Full-time
-      location: Bangalore
-      role1: Data Scientist – R&D
-      time1: Apr'18-May'19
-      role2: Associate Data Scientist – R&D
-      time2: Jun'17-Mar'18
+      location: New Delhi
+      role1: Intern
+      time1: Feb'24-March'24
       details: >
         Experience in this company:
 
-        + **ICLSSTA**
-            - Solely developed a framework, which develop and evaluate unsupervised learning solution in much depth and this from a single config file.
+        + *            - Solely developed a framework, which develop and evaluate unsupervised learning solution in much depth and this from a single config file.
             - **Tags**: *Framework, Clustering, Anomaly, Outlier, Conceptual Drift Detection, Ensembling, Support all Dimension reduction, Anomaly, and Clustering Algorithm from Sklearn, Add. Custom Algorithm*
         + **Adaptive Action Taking (AAT)**
             - Developed a generalized module named which makes use of reinforcement learning to automatically take action on incoming traffic on the web property.
