@@ -158,7 +158,7 @@ certificates:
   display: true
   title: Certificates
   items:
-    - name: English and Personality Development.
+    - name: English and Personality Development
       authority: null
       time: null
       link: null
