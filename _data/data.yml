@@ -129,23 +129,14 @@ skills:
   display: true
   title: Tools & Skills
   details: >
-    + ML Languages/Framework
-        - Python, Scikit-Learn, Tensorflow, PyTorch
-    + **Other Language**
-        - R, SAS, JAVA, C++
-    + **Other**
-      -  APIs, Google Big Query, Docker, Selenium, Redis, Grafana, Kibana, HTML, CSS
-    + **Databases**
-        - SQL, No-SQL
-    + **Software**
+    +  Machine Operation
+        - Pre EL,Edge Sealing,Glass Loader,EVA Cutter Machine
+    +   Languages/SOFTWARE/Skill
+        - HTML,CSS,JAVASCRIPT,JQUERY,SQL,PYTHON,C,JAVA,MATLAB,Excel
+    +   Soft Skill
         - Tableau, Excel, XLMiner, Spyder, Jupyter Notebook, RStudio, Gimp, SolidWorks
-    + **Cloud Computing Services**
-        - Google Cloud Platform, Amazon Web Services, Microservices Architecture
-    + **Cloud Data lakes**
-        - S3, Cloud Storage, Drive, Pcloud
-    + **Hardware**
-        - Jetson Nano, Raspberry Pi, Arduino Uno, IP Cameras, Sensors, basic electrical devices and circuits
-education:
+    
+       
   display: true
   title: Education
   items:
