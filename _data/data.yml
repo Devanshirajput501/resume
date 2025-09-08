@@ -159,8 +159,7 @@ education:
       time: 2021
       major: CLASS XII (PCM with CS)
       degree: null
-      details: 
-        + Percentage-74.8%
+      details: + Percentage-74.8%
     - university: Greenfields Public School,New Delhi-110093
       time: 2019
       major: CLASS X
@@ -185,7 +184,7 @@ certificates:
       time: 2020
       link: https://coursera.org/share/92aafe4a3474d94117ab73a9420afe82
       details: ""
-    languages:
+languages:
   display: true
   title: Languages
   items:
