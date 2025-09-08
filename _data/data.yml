@@ -80,7 +80,7 @@ experiences:
       tag: Full-time
       location: New Delhi
       role1: Intern
-      time1: Feb'25-March'25
+      time1: Feb'2-March'24
       details: >
         Experience in this company:
 
@@ -116,65 +116,12 @@ projects:
   intro: |
     Here're some projects I've developed
   items:
-    - name: IP camera (RTSP protocol) to consistent HTML Live Stream with offline Data
-        Sync
-      link: null
-      details: ""
-    - name: Edge Device based CV application for counting of sheets processed in a
-        workshop
-      link: https://youtu.be/ZMsrct_866k
-      details: ""
-    - name: Sticker Detection and OCR
-      link: https://youtu.be/de7EYj7bFEI
-      details: ""
-    - name: Image to Image Search - Flicker8k
-      link: https://youtu.be/zV9rrC-mLGI
-      details: >
-        &nbsp;&nbsp;&nbsp;&nbsp;Following Searchers were created  
-
-        &nbsp;&nbsp;&nbsp;&nbsp;  1. RCH - Regional Color Histogram  
-
-        &nbsp;&nbsp;&nbsp;&nbsp;  2. PTG - Pre Trained Grouping  
-
-        &nbsp;&nbsp;&nbsp;&nbsp;  3. TAE - Trained Auto Encoder  
-
-        &nbsp;&nbsp;&nbsp;&nbsp;  4. ICG - Image Caption Based Grouping (incomplete)  
-    - name: Image to Image Search - Jewellery
-      link: https://youtu.be/DmrSy9Ivobc
-      details: ""
-    - name: Accounting for Pipe Bundles being Exported
-      link: https://youtu.be/hJdGpM8_ADo
-      details: ""
     - name: Face Detection, Face Landmark Detection and Face Recognition Wrappers
       link: https://youtu.be/HxUXtiWylH4
-      details: ""
-    - name: Human Pose Estimation and Activity Recognition
-      link: https://youtu.be/Y7LCiZbOmNQ
-      details: ""
-    - name: GIS Temperature and Precipitation Time based changes visualization
-      link: https://youtu.be/FeCqUZUwEZA
       details: ""
     - name: WhatsApp based Chatbot (Hack around way)
       link: null
       details: ""
-    - name: Selenium based web scrapping and Web Application Control of Tinder &
-        WhatsApp
-      link: null
-      details: ""
-    - name: Streamlit deployed app for basic Computer Vision applications.
-      link: https://computer-vision-util.streamlit.app/
-      details: ""
-    - name: Streamlit based threshold adjustment for object detector and annotation
-        visualizer
-      link: null
-      details: ""
-    - name: Supervised and Unsupervised Learning Framework
-      link: null
-      details: >
-        &nbsp;&nbsp;&nbsp;&nbsp;Easy selection of basic data pre-processing,
-        transformation, dimension reduction/clustering/anomaly algorithm
-        selection or pipeline creation, hyperparameters setting, ensemble,
-        and  EDA.
     - name: Other projects
       link: null
       details: >
