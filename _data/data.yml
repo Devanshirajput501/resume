@@ -149,21 +149,13 @@ education:
   display: true
   title: Education
   items:
-    - university: Banasthali Vidyapith,Jaipur
+    - university: Banasthali Vidyapith,Rajasthan-304022
       time: 2021 - 2025
       major: Electrical and Electronics Engineering
       degree: B.Tech.
       details: |
-        + Credit Courses: 
-          - Economics
-          - Corporate Social Responsibility
-          - Object Oriented Programming
-          - Management Concepts and Practices
-          - Marketing
-          - Human Resource Management
-          - Operations
-          - Financial Management
-          - Behaviour Psychology
+        + CGPA-7.72 
+       
     - university: Udacity - Data Product Manager
       time: 2021
       major: null
