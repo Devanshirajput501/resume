@@ -129,7 +129,7 @@ skills:
   display: true
   title: Tools & Skills
   details: >
-    +   Machine Operation
+    +  Machine Operation
         - Pre EL,Edge Sealing,Glass Loader,EVA Cutter Machine
     +   Languages/Software/Skill
         - Html,Css,Javascript,Jquery,SQL,Python,C,Java,MATLAB,Excel
@@ -154,14 +154,10 @@ education:
       major: CLASS X
       degree: null
       details: + Percentage-87.8%
-certificates: 
+certificates:
   display: true
   title: Certificates
-  items:
-    - item: English and Personality Development 
-    - item: Intel AI for All
-    - item: Dream Builder
-  
+  items: + English and Personality Development + Intel AI for All + Dream Builder
 languages:
   display: true
   title: Languages
