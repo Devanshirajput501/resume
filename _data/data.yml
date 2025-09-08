@@ -1,9 +1,10 @@
+---
 basic:
   name: Devanshi Rajput
   title: Electrical and Electronic Engineer | Banasthali Vidyapith | B.Tech
   avatar:
     display: true
-    path: IMG_20250908_184707.jpg
+    path: IMG_20250816_232258 (1).jpg
 contact:
   email: devanshirajput501@gmail.com
   phone: +91-8376025287
@@ -55,9 +56,9 @@ experiences:
           - Optimises manpower allocation, line operations, and daily production targets.
           - Executed data entry, reporting, and analysis utilising MS Excel for process monitoring.
           - Conducted problem analysis and troubleshooting to minimise downtime and enhance efficiency.
-        &nbsp;‎ &nbsp;    
+        &nbsp;‎ &nbsp;    
 
-        &nbsp;‎ &nbsp;  
+        &nbsp;‎ &nbsp;  
     - company: Avaada Electro Pvt Ltd
       tag: Full-time
       location: Nagpur,Maharashtra,India
@@ -74,7 +75,7 @@ experiences:
           - Conducted Hi-Pot testing, EL inspection, and visual quality checks to ensure product standards.
           - Serve as core member of production team, specialising in operation and monitoring of Pre-Electroluminescence (Pre-EL) testing process within solar module manufacturing line.
            and cell-level defects before lamination, playing a vital role in ensuring product quality and reliability.
-        &nbsp;‎ &nbsp;  
+        &nbsp;‎ &nbsp;  
     - company: CSIR NPL
       tag: Full-time
       location: New Delhi,India
@@ -87,7 +88,7 @@ experiences:
           - Utilised digital holography with a Mach-Zehnder interferometer for precise refractive index measurement.
           - Captured and processed holograms using Fourier techniques to record phase and amplitude information.
           - Enhanced setup to address vibration challenges and phase wrapping issues effectively.
-          - Acquired practical skills in interferometry, optical alignment, and precision measurement techniques.        &nbsp;‎ &nbsp;  
+          - Acquired practical skills in interferometry, optical alignment, and precision measurement techniques.        &nbsp;‎ &nbsp;  
     - company: BSES SCADA(IT DEPARTMENT)
       tag: Full-time
       location: New Delhi,India
@@ -157,13 +158,13 @@ certificates:
   display: true
   title: Certificates
   items:
-    - name: English and Personality Development
+  + English and Personality Development
       authority: null
       time: null
       link: null
       details: ""
-    - name: Intel AI for All
-    - name: Dream Builder
+  + Intel AI for All
+  + Dream Builder
 languages:
   display: true
   title: Languages
@@ -199,6 +200,3 @@ footer:
   display: true
 close: |
   Sorry, my resume has been hidden.
-
-Go  Reformat (strips comments)  Resolve aliases
-Valid YAML!
