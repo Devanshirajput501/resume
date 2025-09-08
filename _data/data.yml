@@ -80,7 +80,7 @@ experiences:
       tag: Full-time
       location: New Delhi
       role1: Intern (2 Months)
-      time1: Feb'2-March'24
+      time1: Feb'24-March'24
       details: >
         Experience in this company:
 
@@ -149,10 +149,10 @@ education:
   display: true
   title: Education
   items:
-    - university: Indian Institute of Technology, Roorkee
-      time: 2012 - 2017
-      major: Metallurgy and Material Engineering
-      degree: B.Tech. + M.Tech. (Dual Degree Course)
+    - university: Banasthali Vidyapith,Jaipur
+      time: 2021 - 2025
+      major: Electrical and Electronics Engineering
+      degree: B.Tech.
       details: |
         + Credit Courses: 
           - Economics
