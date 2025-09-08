@@ -143,8 +143,7 @@ education:
       time: 2021 - 2025
       major: Electrical and Electronics Engineering
       degree: B.Tech.
-      details: |
-        + CGPA-7.72 
+      details: + CGPA-7.72 
     - university: Greenfields Public School,New Delhi-110093
       time: 2021
       major: CLASS XII (PCM with CS)
