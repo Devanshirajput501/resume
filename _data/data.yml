@@ -158,13 +158,13 @@ certificates:
   display: true
   title: Certificates
   items:
-    - name: English and Personality Development
+    + name: English and Personality Development
       authority: null
       time: null
       link: null
       details: ""
-    - name: Intel AI for All
-    - name: Dream Builder
+    + name: Intel AI for All
+    + name: Dream Builder
 languages:
   display: true
   title: Languages
