@@ -158,11 +158,13 @@ certificates:
   display: true
   title: Certificates
   items:
-    - name: Introduction to Machine Learning in Production
-      authority: Coursera
-      time: 2022
-      link: https://coursera.org/share/3f09064f3c8827532175ababc17ec4ea
+    - name: English and Personality Development.
+      authority: null
+      time: null
+      link: null
       details: ""
+   - name: Intel AI for All
+   - name: Dream Builder
     
 languages:
   display: true
