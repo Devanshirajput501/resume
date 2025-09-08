@@ -235,26 +235,6 @@ certificates:
       time: 2017
       link: https://www.udemy.com/certificate/UC-OOVF3D0D/
       details: ""
-    - name: Big Data Integration and Processing, UC San Diego
-      authority: Coursera
-      time: 2017
-      link: https://coursera.org/share/0444817662a577ef25e429cb16590b62
-      details: ""
-    - name: Big Data Modeling and Management System, UC San Diego
-      authority: Coursera
-      time: 2017
-      link: https://coursera.org/share/0444817662a577ef25e429cb16590b62
-      details: ""
-    - name: Introduction to Data Analytics for Business, University of Colorado
-      authority: Coursera
-      time: 2017
-      link: https://coursera.org/share/431a53339ca34da0776464e0742a15ed
-      details: ""
-    - name: Introduction to Big Data, UC San Diego
-      authority: Coursera
-      time: 2017
-      link: https://coursera.org/share/a5966ae7f1093d28cabdc2d0d56c96f0
-      details: ""
 languages:
   display: true
   title: Languages
