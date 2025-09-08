@@ -360,13 +360,13 @@ interests:
   display: true
   title: Interests
   items:
-    - item: Reading
+    - item: GYM
       link: null
-    - item: Cooking
+    - item: Swimming
       link: null
-    - item: PC Gaming
+    - item: Volleyball
       link: null
-    - item: Bike Trips
+    - item: Photography 
       link: null
     - item: Travelling
       link: null
