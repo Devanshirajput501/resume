@@ -154,11 +154,13 @@ education:
       major: CLASS X
       degree: null
       details: + Percentage-87.8%
-certificates: |
-  display: true title: Certificates items:
-   +  English and Personality Development 
-   +  Intel AI for All 
-   +  Dream Builder
+certificates: 
+  display: true
+  title: Certificates
+  items:
+   + English and Personality Development 
+   + Intel AI for All 
+   + Dream Builder
 languages:
   display: true
   title: Languages
