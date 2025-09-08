@@ -163,16 +163,7 @@ certificates:
       time: 2022
       link: https://coursera.org/share/3f09064f3c8827532175ababc17ec4ea
       details: ""
-    - name: Real-time OCR and Text Detection with Tensorflow, OpenCV and Tesseract
-      authority: Coursera
-      time: 2021
-      link: https://coursera.org/share/3f09064f3c8827532175ababc17ec4ea
-      details: ""
-    - name: Neural Networks and Deep Learning, DeepLearning.AI
-      authority: Coursera
-      time: 2020
-      link: https://coursera.org/share/92aafe4a3474d94117ab73a9420afe82
-      details: ""
+    
 languages:
   display: true
   title: Languages
