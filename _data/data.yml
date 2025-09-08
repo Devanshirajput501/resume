@@ -16,7 +16,7 @@ contact:
   linkedin: devanshi-rajput-a8a003233
   googlescholar: null
   researchgate: null
-  github: MR901
+  github: null
   gitlab: null
   bitbucket: null
   twitter: null
@@ -80,85 +80,36 @@ experiences:
       tag: Full-time
       location: New Delhi
       role1: Intern
-      time1: Feb'24-March'24
+      time1: Feb'25-March'25
       details: >
         Experience in this company:
 
-        + *            - Solely developed a framework, which develop and evaluate unsupervised learning solution in much depth and this from a single config file.
-            - **Tags**: *Framework, Clustering, Anomaly, Outlier, Conceptual Drift Detection, Ensembling, Support all Dimension reduction, Anomaly, and Clustering Algorithm from Sklearn, Add. Custom Algorithm*
-        + **Adaptive Action Taking (AAT)**
-            - Developed a generalized module named which makes use of reinforcement learning to automatically take action on incoming traffic on the web property.
-            - **Tags**: *Reinforcement Learning, Multi-Armed Bandit, Smart handling of Business Limits, Self-Adjusting* 
-        + **Deep Behaviour Analysis (IDBA)**
-            - Partially developed a module named Intent based, which utilizes LSTM to yield encoded features and scores that are used with supervised, anomaly and clustering.
-            - **Tags**: *RNN, Auto-Encoder, Semi-Supervised Learning, Sequence Based Detection, Deep Learning* 
-        + **Threshold Online Reinforcement (ThOR)**
-            - Helped developed a module named, which makes utilizes online learning to develop a probability score distribution over of isotonic regression for action taking.
-            - **Tags**: *Isotonic Regression, Online Learning, Self-Adjusting, Smart handling of Business Limits* 
-        + **Second Level Module Integration**
-            - Developed and implemented end to end machine and reinforce learning based solutions using ICLSSTA-AAT, IDBA-ICLSSTA-AAT, & IDBA-ThOR
-            - **Tags**: *Semi-Supervised, Supervised, unsupervised, reinforcement learning, behaviour analysis* 
-        + **Titan Batch Analyser**
-            - Developed and Implemented, which utilizes multiple browser signatures, behaviour based rules, regular expressions and databases to generate a suspiciousness score to take action on traffic.
-            - **Tags**: *SQL & Python Implementation, ETL, Advance SQL operations, Handling Multiple Datasets* 
-        + **Rule Scripts**
-            - Developed and Implemented multiple rules which were based on network, device and browser fingerprint, and behaviour of the visitors. These were adequately balanced between causal and correlated, yielding negligible FP. 
-            - **Tags**: *Domain knowledge, Behaviour Analysis, Rules development* 
-        + **Rule Mining**
-            - Created a Recommendation System for the highlighting possible bad signature coming in the traffic. 
-            - **Tags**: *Associate Rule Mining, Text Data Pre-processing* 
-        + Developing Dynamic Moving Collective Intelligence which can evolve while working across multiple sid.
-
-        + **Other Works**
-            - Developed Dashboard, Visualization and Analysis, spreadsheet to understand the whole behaviour of the traffic. Partially interactive visualization sheets were also developed in python.
-            - **Tags**: *SQL and Spreadsheet/Python Implementation, Visualization, Result Sharing* 
-        &nbsp;‎ &nbsp;  
+        + Core Responsibilities
+          - Utilised digital holography with a Mach-Zehnder interferometer for precise refractive index measurement.
+          - Captured and processed holograms using Fourier techniques to record phase and amplitude information.
+          - Enhanced setup to address vibration challenges and phase wrapping issues effectively.
+          - Acquired practical skills in interferometry, optical alignment, and precision measurement techniques.        &nbsp;‎ &nbsp;  
     - company: BSES SCADA(IT DEPARTMENT)
       tag: Full-time
-      location: Bangalore
-      role1: Data Scientist – R&D
-      time1: Apr'18-May'19
-      role2: Associate Data Scientist – R&D
-      time2: Jun'17-Mar'18
+      location: New Delhi
+      role1: Intern
+      time1: May'24-Jul'24
       details: >
         Experience in this company:
 
-        + **ICLSSTA**
-            - Solely developed a framework, which develop and evaluate unsupervised learning solution in much depth and this from a single config file.
-            - **Tags**: *Framework, Clustering, Anomaly, Outlier, Conceptual Drift Detection, Ensembling, Support all Dimension reduction, Anomaly, and Clustering Algorithm from Sklearn, Add. Custom Algorithm*
-        + **Adaptive Action Taking (AAT)**
-            - Developed a generalized module named which makes use of reinforcement learning to automatically take action on incoming traffic on the web property.
-            - **Tags**: *Reinforcement Learning, Multi-Armed Bandit, Smart handling of Business Limits, Self-Adjusting* 
-        + **Deep Behaviour Analysis (IDBA)**
-            - Partially developed a module named Intent based, which utilizes LSTM to yield encoded features and scores that are used with supervised, anomaly and clustering.
-            - **Tags**: *RNN, Auto-Encoder, Semi-Supervised Learning, Sequence Based Detection, Deep Learning* 
-        + **Threshold Online Reinforcement (ThOR)**
-            - Helped developed a module named, which makes utilizes online learning to develop a probability score distribution over of isotonic regression for action taking.
-            - **Tags**: *Isotonic Regression, Online Learning, Self-Adjusting, Smart handling of Business Limits* 
-        + **Second Level Module Integration**
+        + Core Responisbilities
+            - Acquired web design skills and practical experience with HTML, CSS, JavaScript, jQuery, and SQL.
+            - Created a dynamic, user-friendly cafeteria website using these technologies.
     - company: BSES(O&M DEPARTMENT)
       tag: Full-time
-      location: Bangalore
-      role1: Data Scientist – R&D
-      time1: Apr'18-May'19
-      role2: Associate Data Scientist – R&D
-      time2: Jun'17-Mar'18
+      location: New Delhi
+      role1: Intern
+      time1: May'23-Jul'23
       details: >
         Experience in this company:
 
-        + **ICLSSTA**
-            - Solely developed a framework, which develop and evaluate unsupervised learning solution in much depth and this from a single config file.
-            - **Tags**: *Framework, Clustering, Anomaly, Outlier, Conceptual Drift Detection, Ensembling, Support all Dimension reduction, Anomaly, and Clustering Algorithm from Sklearn, Add. Custom Algorithm*
-        + **Adaptive Action Taking (AAT)**
-            - Developed a generalized module named which makes use of reinforcement learning to automatically take action on incoming traffic on the web property.
-            - **Tags**: *Reinforcement Learning, Multi-Armed Bandit, Smart handling of Business Limits, Self-Adjusting* 
-        + **Deep Behaviour Analysis (IDBA)**
-            - Partially developed a module named Intent based, which utilizes LSTM to yield encoded features and scores that are used with supervised, anomaly and clustering.
-            - **Tags**: *RNN, Auto-Encoder, Semi-Supervised Learning, Sequence Based Detection, Deep Learning* 
-        + **Threshold Online Reinforcement (ThOR)**
-            - Helped developed a module named, which makes utilizes online learning to develop a probability score distribution over of isotonic regression for action taking.
-            - **Tags**: *Isotonic Regression, Online Learning, Self-Adjusting, Smart handling of Business Limits* 
-        + **Second Level Module Integration**
+        + Core Responsibilities
+          - Gained extensive understanding of power distribution, emphasising switchgear protection (circuit breakers, relays), transformers, substations, and transmission line infrastructure.
 projects:
   display: true
   title: Projects
