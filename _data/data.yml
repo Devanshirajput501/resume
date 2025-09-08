@@ -155,22 +155,17 @@ education:
       degree: B.Tech.
       details: |
         + CGPA-7.72 
-       
-    - university: Udacity - Data Product Manager
+    - university: Greenfields Public School,New Delhi-110093
       time: 2021
-      major: null
-      degree: Nano Degrees
-      details: https://confirm.udacity.com/QGUGJTSK
-    - university: Udacity - Computer Vision
-      time: 2020
-      major: null
-      degree: Nano Degrees
-      details: https://confirm.udacity.com/4DMWY73G
-    - university: Udacity - Artificial Intelligence
-      time: 2018
-      major: null
-      degree: Nano Degrees
-      details: https://confirm.udacity.com/KGCWC7NW
+      major: CLASS XII (PCM with CS)
+      degree: null
+      details: 
+        + Percentage-74.8%
+    - university: Greenfields Public School,New Delhi-110093
+      time: 2019
+      major: CLASS X
+      degree: null
+      details: Percentage-87.8%
 certificates:
   display: true
   title: Certificates
@@ -190,52 +185,7 @@ certificates:
       time: 2020
       link: https://coursera.org/share/92aafe4a3474d94117ab73a9420afe82
       details: ""
-    - name: "Deep Learning and NLP A-Z: How to Create a ChatBot"
-      authority: Udemy
-      time: 2020
-      link: https://www.udemy.com/certificate/UC-PUMKBSE1/
-      details: ""
-    - name: "Artificial Intelligence A-Z: Learn How To Build An AI"
-      authority: Udemy
-      time: 2020
-      link: https://www.google.com
-      details: ""
-    - name: "Business Fundamentals: Corporate Strategy"
-      authority: Udemy
-      time: 2020
-      link: https://www.udemy.com/certificate/UC-AP3ABEGX/
-      details: ""
-    - name: Deep Learning with TensorFlow 2.0
-      authority: Udemy
-      time: 2020
-      link: https://www.udemy.com/certificate/UC-6M01FJV2/
-      details: ""
-    - name: "Deep Learning: Advanced NLP and RNNs"
-      authority: Udemy
-      time: 2020
-      link: https://www.udemy.com/certificate/UC-FK7VUTER/
-      details: ""
-    - name: "Deep Learning and Computer Vision A-Z: OpenCV, SSD & GANs"
-      authority: Udemy
-      time: 2018
-      link: https://www.udemy.com/certificate/UC-ZQF4NUHP/
-      details: ""
-    - name: "Deep Learning A-Z: Hands-On Artificial Neural Network"
-      authority: Coursera
-      time: 2018
-      link: https://www.udemy.com/certificate/UC-PUMKBSE1/
-      details: ""
-    - name: "Machine Learning A-Z: Hands-On Python & R in Data Science"
-      authority: Udemy
-      time: 2017
-      link: https://www.udemy.com/certificate/UC-76HXNV9U/
-      details: ""
-    - name: Statistics for Business Analytics A-Z
-      authority: Udemy
-      time: 2017
-      link: https://www.udemy.com/certificate/UC-OOVF3D0D/
-      details: ""
-languages:
+    languages:
   display: true
   title: Languages
   items:
@@ -253,7 +203,7 @@ interests:
       link: null
     - item: Volleyball
       link: null
-    - item: Photography 
+    - item: Photography
       link: null
     - item: Travelling
       link: null
