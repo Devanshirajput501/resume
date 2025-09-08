@@ -117,7 +117,7 @@ projects:
     Here're some projects I've developed
   items:
     - name: Rotary Inverted Pendulum
-      link: https://youtu.be/HxUXtiWylH4
+      link: null
       details: The primary objective of the project is to design and implement a
         control system capable of maintaining the rotary inverted pendulum in
         its vertically upright position, despite its inherent instability
