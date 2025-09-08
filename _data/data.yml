@@ -157,14 +157,7 @@ education:
 certificates:
   display: true
   title: Certificates
-  items:
-  + English and Personality Development
-      authority: null
-      time: null
-      link: null
-      details: ""
-  + Intel AI for All
-  + Dream Builder
+  items: + English and Personality Development + Intel AI for All + Dream Builder
 languages:
   display: true
   title: Languages
