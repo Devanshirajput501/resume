@@ -62,7 +62,7 @@ experiences:
     - company: Avaada Electro Pvt Ltd
       tag: Full-time
       location: Nagpur,Maharashtra,India
-      role1: Intern
+      role1: Intern(2 Months)
       time1: Apr'25 - Jul'25
       details: >
         Experience in this company:
@@ -79,7 +79,7 @@ experiences:
     - company: CSIR NPL
       tag: Full-time
       location: New Delhi
-      role1: Intern
+      role1: Intern(2 Months)
       time1: Feb'2-March'24
       details: >
         Experience in this company:
@@ -92,7 +92,7 @@ experiences:
     - company: BSES SCADA(IT DEPARTMENT)
       tag: Full-time
       location: New Delhi
-      role1: Intern
+      role1: Intern(2 Months)
       time1: May'24-Jul'24
       details: >
         Experience in this company:
@@ -103,7 +103,7 @@ experiences:
     - company: BSES(O&M DEPARTMENT)
       tag: Full-time
       location: New Delhi
-      role1: Intern
+      role1: Intern(2 Months)
       time1: May'23-Jul'23
       details: >
         Experience in this company:
@@ -116,52 +116,14 @@ projects:
   intro: |
     Here're some projects I've developed
   items:
-    - name: Face Detection, Face Landmark Detection and Face Recognition Wrappers
+    - name: Rotary Inverted Pendulum
       link: https://youtu.be/HxUXtiWylH4
-      details: ""
-    - name: WhatsApp based Chatbot (Hack around way)
+      details: The primary objective of the project is to design and implement a
+        control system capable of maintaining the rotary inverted pendulum in
+        its vertically upright position, despite its inherent instability
+    - name: Cafeteria Website
       link: null
-      details: ""
-    - name: Other projects
-      link: null
-      details: >
-        
-        + &nbsp;&nbsp;&nbsp;&nbsp;Flying Taxi Business Case, Udacity
-
-        + &nbsp;&nbsp;&nbsp;&nbsp;Build a Scalable Data Strategy, Udacity
-
-        + &nbsp;&nbsp;&nbsp;&nbsp;Create an Iterative Design Path, Udacity
-
-
-        + &nbsp;&nbsp;&nbsp;&nbsp;Facial Keypoint Detection, Udacity
-
-        + &nbsp;&nbsp;&nbsp;&nbsp;Image Captioning, Udacity
-
-        + &nbsp;&nbsp;&nbsp;&nbsp;Landmark Detection & Tracking (SLAM), Udacity
-
-
-        + &nbsp;&nbsp;&nbsp;&nbsp;Part of Speech Tagging, Udacity 
-
-        + &nbsp;&nbsp;&nbsp;&nbsp;Build an Adversarial Game Playing Agent - Isolation game playing agent, Udacity 
-
-        + &nbsp;&nbsp;&nbsp;&nbsp;Build a Forward-Planning Agent - Cargo route planning, Udacity 
-
-        + &nbsp;&nbsp;&nbsp;&nbsp;Sudoku solver, Udacity 
-
-
-        + &nbsp;&nbsp;&nbsp;&nbsp;Twitter Sentiment Analysis
-
-        + &nbsp;&nbsp;&nbsp;&nbsp;Identifying customer segment
-
-        + &nbsp;&nbsp;&nbsp;&nbsp;Black Friday: Understanding the customer purchase behaviour, Analytics Vidhya 
-
-        + &nbsp;&nbsp;&nbsp;&nbsp;Estimation of the audience score of movies, Coursera 
-
-        + &nbsp;&nbsp;&nbsp;&nbsp;Predicting the way in which exercise were done, Coursera 
-
-        + &nbsp;&nbsp;&nbsp;&nbsp;Forecasting bike rental demand in the Capital Bike Sharing Program, Kaggle 
-
-        + &nbsp;&nbsp;&nbsp;&nbsp;Predicting Survival on the Titanic, Kaggle
+      details: I created a website using Html,CSS,Javascript,Jquery,SQL
 publications:
   display: true
   title: Python Libraries
