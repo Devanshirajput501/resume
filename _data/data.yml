@@ -164,7 +164,7 @@ education:
       time: 2019
       major: CLASS X
       degree: null
-      details: Percentage-87.8%
+      details: + Percentage-87.8%
 certificates:
   display: true
   title: Certificates
