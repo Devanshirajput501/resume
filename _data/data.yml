@@ -134,7 +134,7 @@ skills:
     +   Languages/Software/Skill
         - Html,Css,Javascript,Jquery,SQL,Python,C,Java,MATLAB,Excel
     +   Soft Skill
-        - Quick Learner,Problem Solving,Team Work,Communication Skills,Adaptability,Time Management, Excel,,Data Analysis,Report Preparation and Presentation
+        - Quick Learner,Problem Solving,Team Work,Communication Skills,Adaptability,Time Management, Excel,Data Analysis,Report Preparation and Presentation
 education:
   display: true
   title: Education
