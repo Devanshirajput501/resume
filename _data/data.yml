@@ -157,7 +157,7 @@ education:
 certificates: 
   display: true
   title: Certificates
-  items:
+  items: >
     - English and Personality Development 
     - Intel AI for All 
     - Dream Builder
