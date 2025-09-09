@@ -178,17 +178,6 @@ education:
       details: "Percentage: 87.8%"
 
 # =========================
-# Certificates
-# =========================
-certificates:
-  display: true
-  title: Certificates
-  items:
-    - English and Personality Development
-    - Intel AI for All
-    - Dream Builder
-
-# =========================
 # Languages
 # =========================
 languages:
