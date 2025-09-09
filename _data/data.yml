@@ -1,17 +1,10 @@
 ---
-# =========================
-# Basic information section
-# =========================
 basic:
   name: Devanshi Rajput
   title: Electrical and Electronics Engineer | Banasthali Vidyapith | B.Tech
   avatar:
     display: true
     path: profile_pic.jpg
-
-# =========================
-# Contact information
-# =========================
 contact:
   email: devanshirajput501@gmail.com
   phone: +91-8376025287
@@ -30,11 +23,6 @@ contact:
   stackoverflow: null
   quora: null
   goodreads: null
-
-# =========================
-# Profile summary
-# =========================
-
 profile:
   display: false
   title: Profile
@@ -42,20 +30,12 @@ profile:
     It's your career profile, you can write markdown format text.
     + First
     + Second
-
-# =========================
-# Areas of Interest
-# =========================
 areas_of_interest:
   display: false
   title: Areas of Professional Interest
   details: |
     + First
     + Second
-
-# =========================
-# Work Experience
-# =========================
 experiences:
   display: true
   title: Experiences
@@ -65,25 +45,33 @@ experiences:
       location: Nagpur, Maharashtra, India
       role1: Graduate Engineer Trainee
       time1: Aug'25 - Present
-      details: |
-        + Managed Pre-EL testing, edge sealing, glass loader, and EVA cutter machinery in solar module production.
-        + Ensured defect identification, quality control, and smooth production flow.
-        + Optimised manpower allocation, line operations, and daily production targets.
-        + Executed data entry, reporting, and analysis in MS Excel.
-        + Conducted troubleshooting to minimise downtime and enhance efficiency.
+      details: >
+        + Managed Pre-EL testing, edge sealing, glass loader, and EVA cutter
+        machinery in solar module production.
 
+        + Ensured defect identification, quality control, and smooth production flow.
+
+        + Optimised manpower allocation, line operations, and daily production targets.
+
+        + Executed data entry, reporting, and analysis in MS Excel.
+
+        + Conducted troubleshooting to minimise downtime and enhance efficiency.
     - company: Avaada Electro Pvt Ltd
       tag: Full-time
       location: Nagpur, Maharashtra, India
       role1: Intern (4 Months)
       time1: Apr'25 - Jul'25
-      details: |
-        + Analysed manufacturing processes in a 5 GW solar panel production plant.
-        + Studied glass loading, EVA layering, stringing, lamination, and quality checks.
-        + Monitored junction box assembly, framing, and sun simulation.
-        + Conducted Hi-Pot testing, EL inspection, and visual quality checks.
-        + Operated Pre-Electroluminescence (Pre-EL) testing for defect detection.
+      details: >
+        + Analysed manufacturing processes in a 5 GW solar panel production
+        plant.
 
+        + Studied glass loading, EVA layering, stringing, lamination, and quality checks.
+
+        + Monitored junction box assembly, framing, and sun simulation.
+
+        + Conducted Hi-Pot testing, EL inspection, and visual quality checks.
+
+        + Operated Pre-Electroluminescence (Pre-EL) testing for defect detection.
     - company: CSIR NPL
       tag: Internship
       location: New Delhi, India
@@ -94,26 +82,22 @@ experiences:
         + Captured holograms and processed with Fourier techniques.
         + Improved setup to reduce vibration and phase wrapping issues.
         + Gained practical skills in interferometry and optical alignment.
-
     - company: BSES SCADA (IT Department)
       tag: Internship
       location: New Delhi, India
       role1: Intern (2 Months)
       time1: May'24 - Jul'24
-      details: |
-        + Developed cafeteria website using HTML, CSS, JavaScript, jQuery, and SQL.
-
+      details: >
+        + Developed cafeteria website using HTML, CSS, JavaScript, jQuery, and
+        SQL.
     - company: BSES (O&M Department)
       tag: Internship
       location: New Delhi, India
       role1: Intern (2 Months)
       time1: May'23 - Jul'23
-      details: |
-        + Learned power distribution, switchgear protection, transformers, substations, and transmission lines.
-
-# =========================
-# Projects
-# =========================
+      details: >
+        + Learned power distribution, switchgear protection, transformers,
+        substations, and transmission lines.
 projects:
   display: true
   title: Projects
@@ -122,31 +106,24 @@ projects:
   items:
     - name: Rotary Inverted Pendulum
       link: null
-      details: |
-        Designed and implemented a control system to keep a rotary inverted pendulum balanced vertically.
-
+      details: >
+        Designed and implemented a control system to keep a rotary inverted
+        pendulum balanced vertically.
     - name: Cafeteria Website
       link: null
-      details: |
-        Built a dynamic cafeteria website using HTML, CSS, JavaScript, jQuery, and SQL.
-
-# =========================
-# Skills
-# =========================
+      details: >
+        Built a dynamic cafeteria website using HTML, CSS, JavaScript, jQuery,
+        and SQL.
 skills:
   display: true
   title: Tools & Skills
-  details: |
+  details: >
     + Machine Operation
       - Pre EL, Edge Sealing, Glass Loader, EVA Cutter Machine
     + Languages/Software
       - HTML, CSS, JavaScript, jQuery, SQL, Python, C, Java, MATLAB, Excel
     + Soft Skills
       - Quick Learner, Problem Solving, Team Work, Communication, Adaptability, Time Management, Data Analysis, Report Preparation
-
-# =========================
-# Education
-# =========================
 education:
   display: true
   title: Education
@@ -155,23 +132,17 @@ education:
       time: 2021 - 2025
       major: Electrical and Electronics Engineering
       degree: B.Tech
-      details: CGPA: 7.72
-
+      details: "CGPA: 7.72"
     - university: Greenfields Public School, New Delhi
       time: 2021
       major: Class XII (PCM with CS)
       degree: null
-      details: Percentage: 74.8%
-
+      details: "Percentage: 74.8%"
     - university: Greenfields Public School, New Delhi
       time: 2019
       major: Class X
       degree: null
-      details: Percentage: 87.8%
-
-# =========================
-# Certificates
-# =========================
+      details: "Percentage: 87.8%"
 certificates:
   display: true
   title: Certificates
@@ -179,10 +150,6 @@ certificates:
     - English and Personality Development
     - Intel AI for All
     - Dream Builder
-
-# =========================
-# Languages
-# =========================
 languages:
   display: true
   title: Languages
@@ -191,10 +158,6 @@ languages:
       level: Native
     - idiom: English
       level: Professional
-
-# =========================
-# Interests
-# =========================
 interests:
   display: true
   title: Interests
@@ -204,10 +167,6 @@ interests:
     - item: Volleyball
     - item: Photography
     - item: Travelling
-
-# =========================
-# Self Evaluation
-# =========================
 evaluation:
   display: false
   title: Self-evaluation
@@ -215,10 +174,6 @@ evaluation:
     Here is my self evaluation.
     + First
     + Second
-
-# =========================
-# Footer Section
-# =========================
 footer:
   display: true
 close: |
