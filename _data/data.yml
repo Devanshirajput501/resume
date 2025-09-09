@@ -7,7 +7,7 @@ basic:
     path: ---
 basic:
   name: Devanshi Rajput
-  title: Electrical and Electronic Engineer | Banasthali Vidyapith | B.Tech
+  title: Electrical and Electronics Engineer | Banasthali Vidyapith | B.Tech
   avatar:
     display: true
     path: IMG_20250816_232258 (1).jpg
@@ -356,6 +356,7 @@ certificates:
   display: true
   title: Certificates
   items: + English and Personality Development + Intel AI for All + Dream Builder
+
 languages:
   display: true
   title: Languages
