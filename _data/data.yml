@@ -165,19 +165,19 @@ education:
       time: 2021 - 2025
       major: Electrical and Electronics Engineering
       degree: B.Tech
-      details: CGPA: 7.72
+      details: "CGPA: 7.72"
 
     - university: Greenfields Public School, New Delhi
       time: 2021
       major: Class XII (PCM with CS)
       degree: null
-      details: Percentage: 74.8%
+      details: "Percentage: 74.8%"
 
     - university: Greenfields Public School, New Delhi
       time: 2019
       major: Class X
       degree: null
-      details: Percentage: 87.8%
+      details: "Percentage: 87.8%"
 
 # =========================
 # Certificates
