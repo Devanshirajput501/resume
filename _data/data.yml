@@ -26,16 +26,26 @@ contact:
 profile:
   display: false
   title: Profile
-  details: |
-    It's your career profile, you can write markdown format text.
-    + First
-    + Second
+  details: >
+    Enthusiastic and detail-oriented Electrical & Electronics Engineer with
+    hands-on 
+
+    experience in solar module manufacturing, power distribution, and software development. 
+
+    Adept at combining technical expertise with analytical and problem-solving skills to 
+
+    deliver high-quality solutions. Strong communicator and collaborative team player 
+
+    committed to continuous learning and innovation.
 areas_of_interest:
   display: false
   title: Areas of Professional Interest
   details: |
-    + First
-    + Second
+    + Renewable Energy Systems
+    + Power Electronics
+    + Control Systems
+    + Data Analysis & Process Optimization
+    + Embedded Systems
 experiences:
   display: true
   title: Experiences
@@ -46,84 +56,92 @@ experiences:
       role1: Graduate Engineer Trainee
       time1: Aug'25 - Present
       details: >
-        + Managed Pre-EL testing, edge sealing, glass loader, and EVA cutter
-        machinery in solar module production.
-
-        + Ensured defect identification, quality control, and smooth production flow.
-
-        + Optimised manpower allocation, line operations, and daily production targets.
-
-        + Executed data entry, reporting, and analysis in MS Excel.
-
-        + Conducted troubleshooting to minimise downtime and enhance efficiency.
+        + Operate and optimize Pre-EL testing, edge sealing, glass loader, and
+        EVA cutter machinery 
+          to ensure high-quality solar module production.  
+        + Drive process improvements by analyzing production data, preparing reports, and 
+          implementing corrective actions.  
+        + Collaborate with cross-functional teams to meet daily production targets while minimizing downtime.  
     - company: Avaada Electro Pvt Ltd
-      tag: Full-time
+      tag: Internship
       location: Nagpur, Maharashtra, India
       role1: Intern (4 Months)
       time1: Apr'25 - Jul'25
       details: >
-        + Analysed manufacturing processes in a 5 GW solar panel production
-        plant.
+        + Gained end-to-end exposure to large-scale (5 GW) solar panel
+        manufacturing processes.  
 
-        + Studied glass loading, EVA layering, stringing, lamination, and quality checks.
+        + Conducted detailed analysis of glass loading, EVA layering, stringing, lamination, and inspection operations.  
 
-        + Monitored junction box assembly, framing, and sun simulation.
-
-        + Conducted Hi-Pot testing, EL inspection, and visual quality checks.
-
-        + Operated Pre-Electroluminescence (Pre-EL) testing for defect detection.
+        + Supported the Pre-EL testing team in detecting and documenting cell-level defects, enhancing reliability and yield.  
     - company: CSIR NPL
       tag: Internship
       location: New Delhi, India
       role1: Intern (2 Months)
       time1: Feb'24 - Mar'24
-      details: |
-        + Applied digital holography with a Mach-Zehnder interferometer.
-        + Captured holograms and processed with Fourier techniques.
-        + Improved setup to reduce vibration and phase wrapping issues.
-        + Gained practical skills in interferometry and optical alignment.
+      details: >
+        + Applied digital holography with a Mach-Zehnder interferometer to
+        measure refractive indices with precision.  
+
+        + Processed holographic data using Fourier techniques to extract phase and amplitude information.  
+
+        + Enhanced system stability by mitigating vibration and phase wrapping issues.  
     - company: BSES SCADA (IT Department)
       tag: Internship
       location: New Delhi, India
       role1: Intern (2 Months)
       time1: May'24 - Jul'24
       details: >
-        + Developed cafeteria website using HTML, CSS, JavaScript, jQuery, and
-        SQL.
+        + Designed and developed a dynamic cafeteria website using HTML, CSS,
+        JavaScript, jQuery, and SQL.  
+
+        + Improved user experience by implementing interactive features and optimizing front-end design.  
     - company: BSES (O&M Department)
       tag: Internship
       location: New Delhi, India
       role1: Intern (2 Months)
       time1: May'23 - Jul'23
       details: >
-        + Learned power distribution, switchgear protection, transformers,
-        substations, and transmission lines.
+        + Acquired practical knowledge of power distribution networks,
+        including transformers, substations, 
+          and transmission line infrastructure.  
+        + Studied switchgear protection mechanisms such as circuit breakers and relays to ensure 
+          system reliability and safety.  
 projects:
   display: true
   title: Projects
-  intro: |
-    Here are some projects I've developed
+  intro: >
+    Selected academic and personal projects demonstrating practical
+    application of engineering skills.
   items:
     - name: Rotary Inverted Pendulum
       link: null
       details: >
-        Designed and implemented a control system to keep a rotary inverted
-        pendulum balanced vertically.
+        Designed and implemented a control system capable of stabilizing a
+        rotary inverted pendulum 
+
+        in its upright position despite inherent instability. Applied control theory and MATLAB simulations 
+
+        to achieve precise balance and system response.  
     - name: Cafeteria Website
       link: null
       details: >
-        Built a dynamic cafeteria website using HTML, CSS, JavaScript, jQuery,
-        and SQL.
+        Developed a responsive cafeteria website using HTML, CSS, JavaScript,
+        jQuery, and SQL. 
+
+        Enabled dynamic menu updates, user-friendly navigation, and real-time data management.  
 skills:
   display: true
   title: Tools & Skills
   details: >
-    + Machine Operation
-      - Pre EL, Edge Sealing, Glass Loader, EVA Cutter Machine
-    + Languages/Software
-      - HTML, CSS, JavaScript, jQuery, SQL, Python, C, Java, MATLAB, Excel
-    + Soft Skills
-      - Quick Learner, Problem Solving, Team Work, Communication, Adaptability, Time Management, Data Analysis, Report Preparation
+    + Machine Operation  
+      - Pre-EL Testing, Edge Sealing, Glass Loader, EVA Cutter Machine  
+    + Programming & Software  
+      - HTML, CSS, JavaScript, jQuery, SQL, Python, C, Java, MATLAB, Excel  
+    + Professional Skills  
+      - Data Analysis, Report Preparation, Presentation, Process Optimization  
+    + Soft Skills  
+      - Quick Learner, Problem Solving, Teamwork, Communication, Adaptability, Time Management  
 education:
   display: true
   title: Education
@@ -170,10 +188,13 @@ interests:
 evaluation:
   display: false
   title: Self-evaluation
-  details: |
-    Here is my self evaluation.
-    + First
-    + Second
+  details: >
+    Self-motivated engineering graduate eager to contribute technical
+    expertise and 
+
+    innovative problem-solving skills to challenging projects. Strives for continuous 
+
+    professional growth and embraces opportunities to work collaboratively in dynamic environments.  
 footer:
   display: true
 close: |
