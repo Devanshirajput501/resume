@@ -68,7 +68,7 @@ experiences:
       tag: Full-time
       location: Nagpur, Maharashtra, India
       role1: Graduate Engineer Trainee
-      time1: Aug'25 - Present
+      time1: Apr'25 - Present
       details: |
         + Operate and optimize Pre-EL testing, edge sealing, glass loader, and EVA cutter machinery 
           to ensure high-quality solar module production.  
@@ -82,8 +82,8 @@ experiences:
     - company: CSIR NPL
       tag: Internship
       location: New Delhi, India
-      role1: Intern (2 Months)
-      time1: Feb'24 - Mar'24
+      role1: Intern 
+      time1: Jan'24 - Mar'24
       details: |
         + Applied digital holography with a Mach-Zehnder interferometer to measure refractive indices with precision,processed holographic data using Fourier techniques to extract phase and amplitude information.  
         + Enhanced system stability by mitigating vibration and phase wrapping issues.  
@@ -91,7 +91,7 @@ experiences:
     - company: BSES SCADA (IT Department)
       tag: Internship
       location: New Delhi, India
-      role1: Intern (2 Months)
+      role1: Intern 
       time1: May'24 - Jul'24
       details: |
         + Designed and developed a dynamic cafeteria website using HTML, CSS, JavaScript, jQuery, and SQL.  
@@ -100,7 +100,7 @@ experiences:
     - company: BSES (O&M Department)
       tag: Internship
       location: New Delhi, India
-      role1: Intern (2 Months)
+      role1: Intern 
       time1: May'23 - Jul'23
       details: |
         + Acquired practical knowledge of power distribution networks, including transformers, substations, 
