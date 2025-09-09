@@ -18,3 +18,9 @@ allow_search_engines: true  # allow search engines indexing your resume
 analytics:
   google:                   # your google analytics
   cloudflare:               # your cloudflare analytics
+
+# Footer settings
+footer:
+  author_name: "Devanshi Rajput"
+  author_link: "https://www.linkedin.com/in/devanshi-rajput-a8a003233/"
+  label: "Last updated on"

@@ -2,9 +2,16 @@
 {% if footer and footer.display %}
 <footer class="footer">
     <div class="text-center">
-        <small class="copyright">Updated: {{ site.time | date: site.date_format | default: "%Y-%m-%d" }}
-            <span class="fas fa-heart"></span> By
-            <a href="https://www.linkedin.com/in/mr901/" target="_blank">Mohit Rajput</a>
+        <small class="copyright">{{ site.footer.label | default: 'Last updated on' }}
+            {{ site.time | date: site.date_format | default: "%Y-%m-%d" }}
+            {% if site.footer.author_name %}
+            By
+            {% if site.footer.author_link %}
+            <a href="{{ site.footer.author_link }}" target="_blank">{{ site.footer.author_name }}</a>
+            {% else %}
+            {{ site.footer.author_name }}
+            {% endif %}
+            {% endif %}
         </small>
     </div>
 </footer>
