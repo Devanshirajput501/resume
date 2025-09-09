@@ -14,17 +14,27 @@
                 <div class="item">
 
                     <div class="upper-row">
+                        {% assign certificate_name = certificate.name %}
+                        {% if certificate_name == nil or certificate_name == '' %}
+                        {% assign certificate_name = certificate %}
+                        {% endif %}
                         {% if certificate.link %}
-                        <div class="certificate"><a href="{{ certificate.link }}">{{ certificate.name }}</a></div>
+                        <div class="certificate"><a href="{{ certificate.link }}">{{ certificate_name }}</a></div>
                         {% else %}
-                        <div class="certificate">{{ certificate.name }}</div>
+                        <div class="certificate">{{ certificate_name }}</div>
                         {% endif %}
                     </div>
 
+                    {% if certificate.authority or certificate.time %}
                     <div class="upper-row">
+                        {% if certificate.authority %}
                         <div class="authority">{{ certificate.authority }}</div>
+                        {% endif %}
+                        {% if certificate.time %}
                         <div class="time">{{ certificate.time }}</div>
+                        {% endif %}
                     </div>
+                    {% endif %}
 
                     {% if certificate.details %}
                     <div class="details">
