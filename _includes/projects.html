@@ -10,7 +10,7 @@
         {% if projects.intro %}
         <div class="intro">
             <div class="markdown">
-                <p>{{ projects.intro | markdownify }}</p>
+                {{ projects.intro | markdownify }}
             </div>
         </div>
         {% endif %}
@@ -18,16 +18,16 @@
         {% for project in projects.items %}
         <div class="item">
             {% if project.name %}
-            <p class="project" style="font-size:90%">
+            <p class="project fs-90">
                 &nbsp;&nbsp;{{ project.name }}
                 {% if project.link %}
-                <small>[<a href="{{ project.link }}" style="color:rgba(0,0,235,0.8);font-size:90%">demo link</a>]</small>
+                <small>[<a class="project-link fs-90" href="{{ project.link }}">View project</a>]</small>
                 {% endif %}
             </p>
 
             {% if project.details %}
             <div class="details">
-                <div class="markdown" align="left" style="font-size:90%">
+                <div class="markdown text-left fs-90">
                     {{ project.details | markdownify }}
                 </div>
             </div>

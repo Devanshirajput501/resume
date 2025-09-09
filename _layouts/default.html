@@ -5,6 +5,40 @@
     </head>
 
     <body>
+        <div class="toolbar no-print">
+            <div class="container">
+                <button id="printBtn" class="btn btn-sm btn-primary" type="button" aria-label="Download PDF">Download PDF</button>
+                <button id="themeToggle" class="btn btn-sm btn-outline-secondary" type="button" aria-label="Toggle dark mode">Toggle Dark Mode</button>
+            </div>
+        </div>
         {{ content }}
+
+        <script>
+        (function() {
+            var printBtn = document.getElementById('printBtn');
+            if (printBtn) {
+                printBtn.addEventListener('click', function() {
+                    window.print();
+                });
+            }
+
+            var themeToggle = document.getElementById('themeToggle');
+            function applyTheme(theme) {
+                if (theme === 'dark') {
+                    document.documentElement.setAttribute('data-theme', 'dark');
+                } else {
+                    document.documentElement.removeAttribute('data-theme');
+                }
+            }
+            if (themeToggle) {
+                themeToggle.addEventListener('click', function() {
+                    var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+                    var next = isDark ? 'light' : 'dark';
+                    applyTheme(next);
+                    try { localStorage.setItem('theme', next); } catch (e) {}
+                });
+            }
+        })();
+        </script>
     </body>
 </html>

@@ -27,4 +27,21 @@
     footer {
         display: none;
     }
+
+    .no-print { display: none !important; }
+
+    /* Avoid page breaks inside items for better pagination */
+    .experiences .item,
+    .educations .item,
+    .projects .item,
+    .publications .item,
+    .certificates .item {
+        break-inside: avoid;
+        page-break-inside: avoid;
+    }
+
+    /* Fine tune margins to reduce widows/orphans */
+    section {
+        margin-bottom: 8px !important;
+    }
 }
