@@ -357,7 +357,9 @@ certificates:
   display: true
   title: Certificates
   details: >
-    + English and Personality Development + Intel AI for All + Dream Builder
+    + English and Personality Development
+    + Intel AI for All
+    + Dream Builder
 
 languages:
   display: true
