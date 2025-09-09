@@ -74,7 +74,6 @@ experiences:
         + Operate and optimize Pre-EL testing, edge sealing, glass loader, and EVA cutter machinery 
           to ensure high-quality solar module production.  
         + Optimised manpower allocation, line operations, and daily production targets.
-        + Executed data entry, reporting, and analysis in MS Excel.
         + Drive process improvements by analyzing production data, preparing reports, and 
           implementing corrective actions.  
         + Collaborate with cross-functional teams to meet daily production targets while minimizing downtime.  
@@ -83,12 +82,11 @@ experiences:
       tag: Internship
       location: Nagpur, Maharashtra, India
       role1: Intern (4 Months)
-      time1: Apr'25 - Jul'25
+      time1: Apr'25 - Present
       details: |
         + Gained end-to-end exposure to large-scale (5 GW) solar panel manufacturing processes.  
         + Conducted detailed analysis of glass loading, EVA layering, stringing, lamination, and inspection operations.  
-        + Supported the Pre-EL testing team in detecting and documenting cell-level defects, enhancing reliability and yield.  
-
+        
     - company: CSIR NPL
       tag: Internship
       location: New Delhi, India
@@ -138,7 +136,7 @@ projects:
     - name: Cafeteria Website
       link: null
       details: |
-        Developed a responsive cafeteria website using HTML, CSS, JavaScript, jQuery, and SQL. 
+        Developed a responsive cafeteria website using programming languages. 
         Enabled dynamic menu updates, user-friendly navigation, and real-time data management.  
 
 # =========================
@@ -150,8 +148,6 @@ skills:
   details: |
     + Machine Operation  
       - Pre-EL Testing, Edge Sealing, Glass Loader, EVA Cutter Machine  
-    + Programming & Software  
-      - HTML, CSS, JavaScript, jQuery, SQL, Python, C, Java, MATLAB, Excel  
     + Professional Skills  
       - Data Analysis, Report Preparation, Presentation, Process Optimization  
     + Soft Skills  
@@ -217,17 +213,6 @@ interests:
     - item: Volleyball
     - item: Photography
     - item: Travelling
-
-# =========================
-# Self Evaluation
-# =========================
-evaluation:
-  display: true
-  title: Self-evaluation
-  details: |
-    Self-motivated engineering graduate eager to contribute technical expertise and 
-    innovative problem-solving skills to challenging projects. Strives for continuous 
-    professional growth and embraces opportunities to work collaboratively in dynamic environments.  
 
 # =========================
 # Footer Section
