@@ -121,8 +121,7 @@ projects:
       link: null
       details: |
         Designed and implemented a control system capable of stabilizing a rotary inverted pendulum 
-        in its upright position despite inherent instability. Applied control theory and MATLAB simulations 
-        to achieve precise balance and system response.  
+        in its upright position despite inherent instability to achieve precise balance and system response.  
 
     - name: Cafeteria Website
       link: null
