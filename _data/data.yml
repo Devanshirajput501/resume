@@ -139,15 +139,15 @@ skills:
   display: true
   title: Tools & Skills
   details: |
-   + Technical Skills:
-       - Pre-EL Testing | Edge Sealing | Glass Loader | EVA Cutter | FQC | Sorter Grading |
-       - Sun Simulator | Process Optimization | Production Planning | Performance Tracking
+   + Technical Skills:\
+       - Pre-EL Testing || Edge Sealing || Glass Loader || EVA Cutter || FQC || Sorter Grading 
+       - Sun Simulator || Process Optimization || Production Planning || Performance Tracking
    + Analytical & Software Skills:
-       - Data Analysis | MIS Reporting | Microsoft Excel | PowerPoint | Dashboard Creation     
+       - Data Analysis || MIS Reporting || Microsoft Excel || PowerPoint || Dashboard Creation     
    + Professional Skills:
-       - Process Improvement | Data Interpretation | Presentation & Reporting | Continuous Improvement (Kaizen, 5S)
+       - Process Improvement || Data Interpretation || Presentation & Reporting || Continuous Improvement (Kaizen, 5S)
    + Soft Skills:
-       - Quick Learner  | Problem Solving  | Teamwork  | Communication  | Adaptability  | Time Management
+       - Quick Learner || Problem Solving  || Teamwork  || Communication  || Adaptability  || Time Management
 
 # =========================
 # Education
