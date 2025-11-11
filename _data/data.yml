@@ -139,7 +139,7 @@ projects:
 skills:
   display: true
   title: Tools & Skills
-  details:
+  details: |
    + Technical Skills:
        - Pre-EL Testing | Edge Sealing | Glass Loader | EVA Cutter | FQC | Sorter Grading | Sun Simulator | Process Optimization | Production Planning | Performance Tracking
    + Analytical & Software Skills:
