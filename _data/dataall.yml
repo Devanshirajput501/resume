@@ -1,0 +1,210 @@
+
+---
+# =========================
+# Basic information section
+# =========================
+basic:
+  name: Devanshi Rajput
+  title: Electrical and Electronics Engineer | Banasthali Vidyapith | B.Tech
+  avatar:
+    display: true
+    path: devanshi.jpg
+# =========================
+# Contact information
+# =========================
+contact:
+  email: devanshirajput501@gmail.com
+  phone: +91-8376025287
+  wechat: null
+  whatsapp: +91-8376025287
+  telegram: null
+  website: null
+  medium: null
+  linkedin: devanshi-rajput-a8a003233
+  googlescholar: null
+  portfolio: null
+  github: null
+  gitlab: null
+  bitbucket: null
+  twitter: null
+  stackoverflow: null
+  quora: null
+  goodreads: null
+
+# =========================
+# Profile summary
+# =========================
+profile:
+  display: true
+  title: Profile
+  details: |
+    Enthusiastic and detail-oriented Electrical & Electronics Engineer with hands-on 
+    experience in solar module manufacturing, power distribution, and software development. 
+    Adept at combining technical expertise with analytical and problem-solving skills to 
+    deliver high-quality solutions. Strong communicator and collaborative team player 
+    committed to continuous learning and innovation.
+
+# =========================
+# Areas of Interest
+# =========================
+areas_of_interest:
+  display: true
+  title: Areas of Professional Interest
+  details: |
+    + Renewable Energy Systems
+    + Power Electronics
+    + Control Systems
+    + Data Analysis & Process Optimization
+    + Embedded Systems
+    + Power Distribution System
+    
+# =========================
+# Work Experience
+# =========================
+experiences:
+  display: true
+  title: Experiences
+  items:
+    - company: Avaada Electro Pvt Ltd
+      tag: Full-time
+      location: Nagpur, Maharashtra, India
+      role1: Graduate Engineer Trainee
+      time1: Apr'25 - Present
+      details: |
+        + Operate and optimize Pre-EL testing, edge sealing, glass loader, and EVA cutter machinery 
+          to ensure high-quality solar module production.  
+        + Optimised manpower allocation, line operations, and daily production targets.
+        + Drive process improvements by analyzing production data, preparing reports, and 
+          implementing corrective actions.  
+        + Collaborate with cross-functional teams to meet daily production targets while minimizing downtime.  
+        + Gained end-to-end exposure to large-scale (5 GW) solar panel manufacturing processes. 
+        + Managed MIS reporting, production dashboards, and line-wise performance tracking using advanced Excel tools and Power BI.
+        + Conducted detailed data analysis on Plan vs Actual performance, rejection trends, production loss, and dispatch performance to support data-driven decision making.
+        + Created daily production reports, monthly line-wise reviews, and efficiency dashboards for senior management.
+        + Assisted the Plant Head and Technical Management Team in manpower planning, machine breakdown analysis, meeting documentation (MoM), and continuous improvement tracking.
+        + Prepared reports for raw material coverage, module line performance, R-grade analysis, shift-end summaries, and dispatch trends to optimize production planning and inventory control.
+        + Implemented and maintained 5S and Kaizen practices, improving workplace organization, safety, and process efficiency.
+        
+    - company: CSIR NPL
+      tag: Internship
+      location: New Delhi, India
+      role1: Intern 
+      time1: Jan'24 - Mar'24
+      details: |
+        + Applied digital holography with a Mach-Zehnder interferometer to measure refractive indexes with precision,processed holographic data using Fourier techniques to extract phase and amplitude information and enhanced system stability.
+    - company: BSES SCADA (IT Department)
+      tag: Internship
+      location: New Delhi, India
+      role1: Intern 
+      time1: May'24 - Jul'24
+      details: |
+        + Designed and developed a dynamic cafeteria website using programming language.  
+        + Improved user experience by implementing interactive features and optimizing front-end design.  
+
+    - company: BSES (O&M Department)
+      tag: Internship
+      location: New Delhi, India
+      role1: Intern 
+      time1: May'23 - Jul'23
+      details: |
+        + Acquired practical knowledge of power distribution networks, including transformers, substations, 
+          and transmission line infrastructure.  
+        + Studied switchgear protection mechanisms such as circuit breakers and relays to ensure 
+          system reliability and safety.  
+
+
+# =========================
+# Projects
+# =========================
+projects:
+  display: true
+  title: Projects
+  intro: |
+    
+  items:
+    - name: Rotary Inverted Pendulum
+      link: null
+      details: |
+        Designed and implemented a control system capable of stabilizing a rotary inverted pendulum 
+        in its upright position despite inherent instability to achieve precise balance and system response.  
+
+    - name: Cafeteria Website
+      link: null
+      details: |
+        Developed a responsive cafeteria website using programming languages. 
+        Enabled dynamic menu updates, user-friendly navigation, and real-time data management.  
+
+# =========================
+# Skills
+# =========================
+skills:
+  display: true
+  title: Tools & Skills
+  details: |
+   + Technical Skills:
+       - Pre-EL Testing | Edge Sealing | Glass Loader | EVA Cutter | FQC | Sorter Grading |
+       - Sun Simulator | Process Optimization | Production Planning | Performance Tracking
+   + Analytical & Software Skills:
+       - Data Analysis | MIS Reporting | Microsoft Excel | PowerPoint | Dashboard Creation     
+   + Professional Skills:
+       - Process Improvement | Data Interpretation | Presentation & Reporting | Continuous Improvement (Kaizen, 5S)
+   + Soft Skills:
+       - Quick Learner  | Problem Solving  | Teamwork  | Communication  | Adaptability  | Time Management
+
+# =========================
+# Education
+# =========================
+education:
+  display: true
+  title: Education
+  items:
+    - university: Banasthali Vidyapith, Rajasthan
+      time: 2021 - 2025
+      major: Electrical and Electronics Engineering
+      degree: B.Tech
+      details: "CGPA: 7.72"
+
+    - university: Greenfields Public School, New Delhi
+      time: 2021
+      major: Class XII (PCM with CS)
+      degree: null
+      details: "Percentage: 74.8%"
+
+    - university: Greenfields Public School, New Delhi
+      time: 2019
+      major: Class X
+      degree: null
+      details: "Percentage: 87.8%"
+
+# =========================
+# Languages
+# =========================
+languages:
+  display: true
+  title: Languages
+  items:
+    - idiom: Hindi
+      level: Native
+    - idiom: English
+      level: Professional
+
+# =========================
+# Interests
+# =========================
+interests:
+  display: true
+  title: Interests
+  items:
+    - item: Gym
+    - item: Swimming
+    - item: Volleyball
+    - item: Photography
+    - item: Travelling
+
+# =========================
+# Footer Section
+# =========================
+footer:
+  display: true
+close: |
+  Sorry, my resume has been hidden.
