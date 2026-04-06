@@ -34,9 +34,9 @@ experiences:
       tag: Full-time
       location: Nagpur, Maharashtra, India
       roles:
-        - title 1: Graduate Engineer Trainee
+        - title : Graduate Engineer Trainee
           time: Aug'25 - Present
-          details: |
+          details: >
             + Operate and optimize processes such as Pre-EL testing, edge sealing,glass loading, EVA cutting machines, FQC, sun simulator, sorter
             grading, and packaging to ensure high-quality solar module production.
             + Optimized manpower allocation, line operations, and daily production targets.
@@ -49,7 +49,7 @@ experiences:
             + Data Visualization: Power BI
             + Enterprise Software: SAP
             + Presentation Tools: Microsoft PowerPoint (PPT)
-        - title 2: Intern
+        - title : Intern
           time: Apr'25 - Jul'25
           details: >
             + Gained end-to-end exposure to large-scale (5 GW) solar panel
