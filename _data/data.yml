@@ -59,30 +59,33 @@ experiences:
     - company: CSIR NPL
       tag: Internship
       location: New Delhi, India
-      role: Intern
-      time: Jan'24 - Mar'24
-      details: |
-        + Applied digital holography using a Mach-Zehnder interferometer to measure refractive indices with high precision.
-        + Processed holographic data using Fourier techniques to extract phase and amplitude information.
-        + Enhanced system stability and measurement accuracy.
+      roles:
+        - title: Intern
+          time: Jan'24 - Mar'24
+          details: |
+            + Applied digital holography using a Mach-Zehnder interferometer to measure refractive indices with high precision.
+            + Processed holographic data using Fourier techniques to extract phase and amplitude information.
+            + Enhanced system stability and measurement accuracy.
 
     - company: BSES SCADA (IT Department)
       tag: Internship
       location: New Delhi, India
-      role: Intern
-      time: May'24 - Jul'24
-      details: |
-        + Designed and developed a dynamic cafeteria website using HTML and CSS.
-        + Improved user experience by implementing interactive features and optimizing front-end design.
+      roles:
+        - title: Intern
+          time: May'24 - Jul'24
+          details: |
+            + Designed and developed a dynamic cafeteria website using HTML and CSS.
+            + Improved user experience by implementing interactive features and optimizing front-end design.
 
     - company: BSES (O&M Department)
       tag: Internship
       location: New Delhi, India
-      role: Intern
-      time: May'23 - Jul'23
-      details: |
-        + Gained practical knowledge of power distribution networks, including transformers, substations, and transmission infrastructure.
-        + Studied switchgear protection mechanisms such as circuit breakers and relays to ensure system reliability and safety.
+      roles:
+        - title: Intern
+          time: May'23 - Jul'23
+          details: |
+            + Gained practical knowledge of power distribution networks, including transformers, substations, and transmission infrastructure.
+            + Studied switchgear protection mechanisms such as circuit breakers and relays to ensure system reliability and safety.
 
 projects:
   display: true
