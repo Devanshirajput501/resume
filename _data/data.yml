@@ -39,7 +39,7 @@ experiences:
     - company: Avaada Electro Pvt Ltd
       tag: Full-time
       location: Nagpur, Maharashtra, India
-      roles:
+      roles 1:
         - title: Graduate Engineer Trainee
           time: Aug'25 - Present
           details: |
@@ -48,9 +48,13 @@ experiences:
             + Drove process improvements by analyzing production data, preparing reports, and implementing corrective actions.
             + Managed MIS reporting, production dashboards, and line-wise performance tracking using Advanced Excel, PowerPoint, and Power BI.
             + Created daily production reports, monthly line-wise reviews, and efficiency dashboards for senior management.
-            + Implemented and maintained 5S and Kaizen practices to improve workplace organization, safety, and process efficiency.
-            + Tools & Technologies: HTML, CSS, Advanced Excel, Power BI, SAP, Microsoft PowerPoint
-
+            + Implemented and maintained 5S and Kaizen practices to improve workplace organization, safety, and process efficiency
+            + Web Development: HTML, CSS , SQL
+            + Data Analysis & Reporting: Advanced Excel (Pivot Tables, VLOOKUP, Macros, Dashboards, Slicers)
+            + Data Visualization: Power BI
+            + Enterprise Software: SAP
+            + Presentation Tools: Microsoft PowerPoint (PPT)
+      roles 2:
         - title: Intern
           time: Apr'25 - Jul'25
           details: |
@@ -106,15 +110,8 @@ skills:
   title: Tools & Skills
   details: |
     + Analytical & Software Skills:
-        - Data Analysis & Interpretation
-        - Continuous Improvement (Kaizen, 5S)
-        - MIS Reporting
-        - Advanced Excel
-        - Microsoft PowerPoint
-        - Power BI
-        - SAP
-        - HTML/CSS
-        - SQL
+        - Data Analysis & Interpretation || Continuous Improvement (Kaizen, 5S) || MIS Reporting || 
+          Advanced Excel || Microsoft PowerPoint || Power BI || SAP || HTML/CSS || SQL
     + Soft Skills:
         - Quick Learner
         - Problem Solving
