@@ -38,7 +38,7 @@ experiences:
           time: Aug'25 - Present
           details: >
             + Operate and optimize processes such as Pre-EL testing, edge sealing,glass loading, EVA cutting machines, FQC, sun simulator, sorter
-            grading, and packaging to ensure high-quality solar module production.
+              grading, and packaging to ensure high-quality solar module production.
             + Optimized manpower allocation, line operations, and daily production targets.
             + Drove process improvements by analyzing production data, preparing reports, and implementing corrective actions.
             + Managed MIS reporting, production dashboards, and line-wise performance tracking using Advanced Excel, PowerPoint, and Power BI.
@@ -52,8 +52,7 @@ experiences:
         - title : Intern
           time: Apr'25 - Jul'25
           details: >
-            + Gained end-to-end exposure to large-scale (5 GW) solar panel
-            manufacturing processes.
+            + Gained end-to-end exposure to large-scale (5 GW) solar panel manufacturing processes.
     - company: CSIR NPL
       tag: Internship
       location: New Delhi, India
@@ -64,7 +63,8 @@ experiences:
             + Applied digital holography using a Mach-Zehnder interferometer to measure refractive indices with high precision.
             + Processed holographic data using Fourier techniques to extract phase and amplitude information.
             + Enhanced system stability and measurement accuracy.
-- company: BSES SCADA (IT Department)
+            
+    - company: BSES SCADA (IT Department)
       tag: Internship
       location: New Delhi, India
       roles:
@@ -73,7 +73,7 @@ experiences:
           details: >
             + Designed and developed a dynamic cafeteria website using HTML and CSS.
             + Improved user experience by implementing interactive features and optimizing front-end design.
-- company: BSES (O&M Department)
+    - company: BSES (O&M Department)
       tag: Internship
       location: New Delhi, India
       roles:
