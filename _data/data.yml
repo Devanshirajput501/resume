@@ -13,7 +13,7 @@ contact:
 profile:
   display: true
   title: Profile
-  details: >
+  details: |
     Enthusiastic and detail-oriented Electrical & Electronics Engineer with hands-on experience in solar module manufacturing, power distribution, and software development.Adept at combining technical expertise with analytical and problem-solving skills to 
     deliver high-quality solutions. Strong communicator and collaborative team player committed to continuous learning and innovation.
 areas_of_interest:
@@ -36,7 +36,7 @@ experiences:
       roles:
         - title : Graduate Engineer Trainee
           time: Aug'25 - Present
-          details: >
+          details: |
             + Operate and optimize processes such as Pre-EL testing, edge sealing,glass loading, EVA cutting machines, FQC, sun simulator, sorter
               grading, and packaging to ensure high-quality solar module production.
             + Optimized manpower allocation, line operations, and daily production targets.
@@ -51,7 +51,7 @@ experiences:
             + Presentation Tools: Microsoft PowerPoint (PPT)
         - title : Intern
           time: Apr'25 - Jul'25
-          details: >
+          details: |
             + Gained end-to-end exposure to large-scale (5 GW) solar panel manufacturing processes.
     - company: CSIR NPL
       tag: Internship
@@ -59,7 +59,7 @@ experiences:
       roles:
         - title: Intern
           time: Jan'24 - Mar'24
-          details: >
+          details: |
             + Applied digital holography using a Mach-Zehnder interferometer to measure refractive indices with high precision.
             + Processed holographic data using Fourier techniques to extract phase and amplitude information.
             + Enhanced system stability and measurement accuracy.
