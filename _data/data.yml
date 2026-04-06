@@ -159,11 +159,10 @@ interests:
   display: true
   title: Interests
   items:
-    - Gym
-    - Swimming
-    - Volleyball
-    - Photography
-    - Travelling
-
+    - item: Gym
+    - item: Swimming
+    - item: Volleyball
+    - item: Photography
+    - item: Travelling
 footer:
   display: true
