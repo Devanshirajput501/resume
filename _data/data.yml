@@ -1,26 +1,29 @@
+---
 basic:
   name: Devanshi Rajput
   title: Electrical and Electronics Engineer | Banasthali Vidyapith | B.Tech
   avatar:
     display: true
     path: devanshi.jpg
-
 contact:
   email: devanshirajput501@gmail.com
   phone: +91-8376025287
   whatsapp: +91-8376025287
   linkedin: devanshi-rajput-a8a003233
-
 profile:
   display: true
   title: Profile
-  details: |
-    Enthusiastic and detail-oriented Electrical & Electronics Engineer with hands-on 
-    experience in solar module manufacturing, power distribution, and software development. 
-    Adept at combining technical expertise with analytical and problem-solving skills to 
-    deliver high-quality solutions. Strong communicator and collaborative team player 
-    committed to continuous learning and innovation.
+  details: >
+    Enthusiastic and detail-oriented Electrical & Electronics Engineer with
+    hands-on 
 
+    experience in solar module manufacturing, power distribution, and software development. 
+
+    Adept at combining technical expertise with analytical and problem-solving skills to 
+
+    deliver high-quality solutions. Strong communicator and collaborative team player 
+
+    committed to continuous learning and innovation.
 areas_of_interest:
   display: true
   title: Areas of Professional Interest
@@ -31,7 +34,6 @@ areas_of_interest:
     + Data Analysis & Process Optimization
     + Embedded Systems
     + Power Distribution Systems
-
 experiences:
   display: true
   title: Experiences
@@ -42,68 +44,87 @@ experiences:
       roles:
         - title 1: Graduate Engineer Trainee
           time: Aug'25 - Present
-          details: |
-            + Operate and optimize processes such as Pre-EL testing, edge sealing, glass loading, EVA cutting machines, FQC, sun simulator, sorter grading, and packaging to ensure high-quality solar module production.
+          details: >
+            + Operate and optimize processes such as Pre-EL testing, edge sealing,
+            glass loading, EVA cutting machines, FQC, sun simulator, sorter
+            grading, and packaging to ensure high-quality solar module
+            production.
+
             + Optimized manpower allocation, line operations, and daily production targets.
+
             + Drove process improvements by analyzing production data, preparing reports, and implementing corrective actions.
+
             + Managed MIS reporting, production dashboards, and line-wise performance tracking using Advanced Excel, PowerPoint, and Power BI.
+
             + Created daily production reports, monthly line-wise reviews, and efficiency dashboards for senior management.
+
             + Implemented and maintained 5S and Kaizen practices to improve workplace organization, safety, and process efficiency.
+
             + Web Development: HTML, CSS, SQL
+
             + Data Analysis & Reporting: Advanced Excel (Pivot Tables, VLOOKUP, Macros, Dashboards, Slicers)
+
             + Data Visualization: Power BI
+
             + Enterprise Software: SAP
+
             + Presentation Tools: Microsoft PowerPoint (PPT)
         - title 2: Intern
           time: Apr'25 - Jul'25
-          details: |
-            + Gained end-to-end exposure to large-scale (5 GW) solar panel manufacturing processes.
-
+          details: >
+            + Gained end-to-end exposure to large-scale (5 GW) solar panel
+            manufacturing processes.
     - company: CSIR NPL
       tag: Internship
       location: New Delhi, India
       roles:
         - title: Intern
           time: Jan'24 - Mar'24
-          details: |
-            + Applied digital holography using a Mach-Zehnder interferometer to measure refractive indices with high precision.
-            + Processed holographic data using Fourier techniques to extract phase and amplitude information.
-            + Enhanced system stability and measurement accuracy.
+          details: >
+            + Applied digital holography using a Mach-Zehnder interferometer to
+            measure refractive indices with high precision.
 
+            + Processed holographic data using Fourier techniques to extract phase and amplitude information.
+
+            + Enhanced system stability and measurement accuracy.
     - company: BSES SCADA (IT Department)
       tag: Internship
       location: New Delhi, India
       roles:
         - title: Intern
           time: May'24 - Jul'24
-          details: |
-            + Designed and developed a dynamic cafeteria website using HTML and CSS.
-            + Improved user experience by implementing interactive features and optimizing front-end design.
+          details: >
+            + Designed and developed a dynamic cafeteria website using HTML and
+            CSS.
 
+            + Improved user experience by implementing interactive features and optimizing front-end design.
     - company: BSES (O&M Department)
       tag: Internship
       location: New Delhi, India
       roles:
         - title: Intern
           time: May'23 - Jul'23
-          details: |
-            + Gained practical knowledge of power distribution networks, including transformers, substations, and transmission infrastructure.
-            + Studied switchgear protection mechanisms such as circuit breakers and relays to ensure system reliability and safety.
+          details: >
+            + Gained practical knowledge of power distribution networks, including
+            transformers, substations, and transmission infrastructure.
 
+            + Studied switchgear protection mechanisms such as circuit breakers and relays to ensure system reliability and safety.
 projects:
   display: true
   title: Projects
   items:
     - name: Rotary Inverted Pendulum
-      details: |
-        Designed and implemented a control system capable of stabilizing a rotary inverted pendulum 
+      details: >
+        Designed and implemented a control system capable of stabilizing a
+        rotary inverted pendulum 
+
         in its upright position despite inherent instability, achieving precise balance and response.
-
     - name: Cafeteria Website
-      details: |
-        Developed a responsive cafeteria website with dynamic menu updates, user-friendly navigation, 
-        and real-time data handling.
+      details: >
+        Developed a responsive cafeteria website with dynamic menu updates,
+        user-friendly navigation, 
 
+        and real-time data handling.
 skills:
   display: true
   title: Tools & Skills
@@ -125,7 +146,6 @@ skills:
         - Communication
         - Adaptability
         - Time Management
-
 education:
   display: true
   title: Education
@@ -135,17 +155,14 @@ education:
       degree: B.Tech
       major: Electrical and Electronics Engineering
       details: "CGPA: 7.72"
-
     - university: Greenfields Public School, New Delhi
       time: 2021
       major: Class XII (PCM with CS)
       details: "Percentage: 74.8%"
-
     - university: Greenfields Public School, New Delhi
       time: 2019
       major: Class X
       details: "Percentage: 87.8%"
-
 languages:
   display: true
   title: Languages
@@ -154,7 +171,6 @@ languages:
       level: Native
     - idiom: English
       level: Professional
-
 interests:
   display: true
   title: Interests
