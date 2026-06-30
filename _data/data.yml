@@ -37,22 +37,13 @@ experiences:
         - title : Graduate Engineer Trainee
           time: Aug'25 - Present
           details: >
-            + Operate and optimize processes such as Pre-EL testing, edge sealing,glass loading, EVA cutting machines, FQC, sun simulator, sorter
-              grading, and packaging to ensure high-quality solar module production.
-            + Optimized manpower allocation, line operations, and daily production targets.
-            + Drove process improvements by analyzing production data, preparing reports, and implementing corrective actions.
-            + Managed MIS reporting, production dashboards, and line-wise performance tracking using Advanced Excel, PowerPoint, and Power BI.
-            + Created daily production reports, monthly line-wise reviews, and efficiency dashboards for senior management.
-            + Implemented and maintained 5S and Kaizen practices to improve workplace organization, safety, and process efficiency.
-            + ---------------------DISPATCH------------------------
+            + ---------------------DISPATCH------------------------(CURRENTLY)
             + Managed Dispatch MIS Reporting – Prepared and maintained daily, weekly, and monthly dispatch reports to monitor shipment performance and delivery status.
             + Monitored Open Sales Orders – Tracked pending customer orders and coordinated with production, planning, and logistics teams to ensure timely fulfillment
             + Prepared Customer-wise Data Analysis – Generated customer-specific sales, dispatch, and inventory reports to support business decisions and improve service levels.
-            + Handled Inventory Management Activities – Maintained accurate inventory records, monitored stock levels, and ensured optimal stock availability.
             + Implemented Warehouse Binning System – Managed material storage locations through proper binning to improve inventory traceability and warehouse efficiency.
             + Processed Invoicing and Dispatch Documentation – Generated invoices and ensured accurate preparation of dispatch documents, e-way bills, and transport records.
             + Maintained Stock Data in SAP/ERP – Updated stock transactions, monitored inventory movement, and ensured data accuracy within the system.
-            + Managed Credit Note Processing – Coordinated customer credit note transactions and resolved discrepancies in collaboration with finance and sales teams.
             + Performed Stock Reconciliation – Conducted regular physical stock verification and reconciled inventory records to maintain high inventory accuracy
             + Coordinated Logistics and Dispatch Operations – Planned vehicle loading, monitored shipment schedules, and ensured on-time delivery to customers.
             + SAP | Dispatch Management | Inventory Management | MIS Reporting | Invoicing | Credit Note Processing | Warehouse Operations | Stock Reconciliation | Logistics Coordination | Advanced Excel
@@ -61,9 +52,14 @@ experiences:
             + Data Visualization: Power BI
             + Enterprise Software: SAP
             + Presentation Tools: Microsoft PowerPoint (PPT)
+            
+            + ---------------------PRODUCTION / MIS------------------------
+            + Operate and optimize processes such as Pre-EL testing, edge sealing,glass loading, EVA cutting machines, FQC, sun simulator, sorter grading, and packaging to ensure high-quality solar module production.
+            + Managed MIS reporting, production dashboards, and line-wise performance tracking using Advanced Excel, PowerPoint, and Power BI.Optimized manpower allocation, line operations, and daily production targets.
+            + Implemented and maintained 5S and Kaizen practices to improve workplace organization, safety, and process efficiency.
         - title : Intern
-          time: Apr'25 - Jul'25
-          details: >
+       time: Apr'25 - Jul'25
+       details: >
             + Gained end-to-end exposure to large-scale (5 GW) solar panel manufacturing processes.
     - company: CSIR NPL
       tag: Internship
